@@ -1,6 +1,13 @@
 rm(list= ls())
+#' Find the shortest distance
+#' @param graph A dataframe.
+#' @param init_node the initial node.
+#' @return The shortest distance to each node starting from the initial node.
+#' @examples
+#' dijkstra(wiki_graph,1)
+#' dijkstra(wiki_graph,3)
 dijkstra <- function(graph, init_node){
-  #variable initialization
+  # variable initialization
   v1<- graph[,1]
   v2<-graph[,2]
   w<- graph[,3]
