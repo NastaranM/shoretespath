@@ -1,6 +1,6 @@
 language: r
 cache: packages
 install:
-  - Rscript -e 'install.packages(c("devtools","roxygen2","testthat"));devtools::install_deps("shortespath")'
+  - Rscript -e 'install.packages(c("devtools","roxygen2","testthat"));devtools::install_deps("shoretespath")'
 script:
-  - Rscript -e 'devtools::check("shortespath")'
+  - Rscript -e 'devtools::check("shoretespath")'
