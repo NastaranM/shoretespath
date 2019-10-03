@@ -1,0 +1,11 @@
+Package: shoretespath
+Type: Package
+Title: The package finds the shortest path between two nodes
+Version: 1.0
+Date: 2019-10-03
+Author: Nastaran Meftahi
+Maintainer: Who to complain to <nastaran.me@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: MIT License
+Encoding: UTF-8
+RoxygenNote: 6.1.1
