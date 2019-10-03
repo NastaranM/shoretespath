@@ -1,4 +1,4 @@
-#' Lab3: A package consisting of Euclidean and Dijkstra algorithms.
+#' shoretespath: A package consisting of Euclidean and Dijkstra algorithms.
 #'
 #' @section The package contains two functions: 
 #' \code{\link{euclidean}} that find the greatest common divisor of two integers and

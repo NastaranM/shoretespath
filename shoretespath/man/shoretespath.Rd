@@ -4,9 +4,9 @@
 \name{shoretespath}
 \alias{shoretespath}
 \alias{shoretespath-package}
-\title{Lab3: A package consisting of Euclidean and Dijkstra algorithms.}
+\title{shoretespath: A package consisting of Euclidean and Dijkstra algorithms.}
 \description{
-Lab3: A package consisting of Euclidean and Dijkstra algorithms.
+shoretespath: A package consisting of Euclidean and Dijkstra algorithms.
 }
 \section{The package contains two functions}{
  
