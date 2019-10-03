@@ -1,4 +1,4 @@
 library(testthat)
-library(Lab3)
+library(shoretespath)
 
-test_check("Lab3")
+test_check("shoretespath")
